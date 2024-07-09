@@ -6,8 +6,6 @@ if (process.env.NODE_ENV !== "production") {
   console.log("Looks like we are in dev mode.");
 }
 
-cosnole.log("hehe");
-
 function component() {
   const element = document.createElement("div");
 
